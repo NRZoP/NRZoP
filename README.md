@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NRZoP
-- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning javascript/c/c++
 - 💞️ I’m looking to collaborate on 
 - 📫 YT-NRZoP
